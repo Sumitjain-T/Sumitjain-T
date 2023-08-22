@@ -1,9 +1,9 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif))
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left">My name is Sumit Jain and I'm from Mumbai. currently pursuing my bachelor's degree in Information Technology from Thakur College of Engineering.</p>
 
 ###
